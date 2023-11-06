@@ -1,0 +1,6 @@
+https://levelup.gitconnected.com/synchronous-and-asynchrounous-microservice-communication-in-spring-framework-abbf4c0d24ad
+
+https://www.javaguides.net/2022/10/spring-boot-microservices-communication-using-resttemplate.html
+
+
+blog.devops.dev/asynchronous-communication-made-easy-a-guide-to-inter-microservice-communication-in-spring-boot-e557e5796975
